@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Hero's Come Back!!",
+  "base_artist": "nobodyknows+",
+  "createdAt": "2026-02-24T12:08:05.193164Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hero's Come Back!!",
+      "artist": "nobodyknows+",
+      "has_synced": true,
+      "path": "select/01_Hero's_Come_Back!!_nobodyknows+.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hero's Come Back!!(第1話〜第30話)",
+      "artist": "坂本順一",
+      "has_synced": true,
+      "path": "select/02_Hero's_Come_Back!!(第1話〜第30話)_坂本順一.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hero's Come Back!!(第1話〜第30話)",
+      "artist": "Junichi Sakamoto",
+      "has_synced": true,
+      "path": "select/03_Hero's_Come_Back!!(第1話〜第30話)_Junichi_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hero's Come Back!",
+      "artist": "nobodyknows+",
+      "has_synced": true,
+      "path": "select/04_Hero's_Come_Back!_nobodyknows+.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hero's Come Back",
+      "artist": "Tsuko G.",
+      "has_synced": false,
+      "path": "select/05_Hero's_Come_Back_Tsuko_G..txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hero's Come Back!! (Naruto Shippuden Opening 1)",
+      "artist": "PelleK",
+      "has_synced": true,
+      "path": "select/06_Hero's_Come_Back!!_(Naruto_Shippuden_Opening_1)_PelleK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hero's Come Back!!",
+      "artist": "Nobody Knows",
+      "has_synced": true,
+      "path": "select/07_Hero's_Come_Back!!_Nobody_Knows.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hero's Come Back!!",
+      "artist": "nobodyknows+",
+      "has_synced": true,
+      "path": "select/08_Hero's_Come_Back!!_nobodyknows+.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Villain's Pain (Hero's Come Back!!〜Other Side〜)",
+      "artist": "nobodyknows+",
+      "has_synced": false,
+      "path": "select/09_Villain's_Pain_(Hero's_Come_Back!!〜Other_Side〜)_nobodyknows+.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hero’s Come Back!!",
+      "artist": "nobodyknows+",
+      "has_synced": true,
+      "path": "select/10_Hero’s_Come_Back!!_nobodyknows+.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hero’s Come Back",
+      "artist": "PelleK",
+      "has_synced": true,
+      "path": "select/11_Hero’s_Come_Back_PelleK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hero's Come Back!! (ep.1-30)",
+      "artist": "Junichi Sakamoto",
+      "has_synced": true,
+      "path": "select/12_Hero's_Come_Back!!_(ep.1-30)_Junichi_Sakamoto.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hero's Come Back!!",
+      "artist": "nobodyknows+",
+      "has_synced": false,
+      "path": "select/pl_01_Hero's_Come_Back!!_nobodyknows+.txt"
+    }
+  ]
+}
